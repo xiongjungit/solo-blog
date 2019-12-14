@@ -10,6 +10,7 @@ xiongjungit 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.mxnet.io/my-github-repos)
 * [vagrant入门教程](http://www.mxnet.io/articles/2019/12/13/1576204670538.html)
 * [Solo 用户指南](http://www.mxnet.io/articles/2019/12/13/1576204474231.html)
 * [docker入门教程](http://www.mxnet.io/articles/2019/12/13/1576203444057.html)
